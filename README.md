@@ -1,3 +1,17 @@
 # Dart Patterns
 
-Dart patterns & techniques to use in development for Dart/Flutter Developer.
+Dart patterns & techniques to use in development for Dart / Flutter Developer.
+
+### Behavioral
+
+* Chain of Responsibility
+* Command
+* Interpreter
+* Iterator
+* Mediator
+* Memento
+* Observer
+* State
+* Strategy
+* Template Method
+* Visitor
