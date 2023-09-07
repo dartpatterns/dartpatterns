@@ -2,25 +2,11 @@
 
 Dart patterns & techniques to use in development for Dart / Flutter Developer.
 
-### Behavioral
-
-* Chain of Responsibility
-* Command
-* Interpreter
-* Iterator
-* Mediator
-* Memento
-* Observer
-* State
-* Strategy
-* Template Method
-* Visitor
-
 ### Creational
 
+* Factory Method
 * Abstract Factory
 * Builder
-* Factory Method
 * Prototype
 * Singleton
 
@@ -33,3 +19,17 @@ Dart patterns & techniques to use in development for Dart / Flutter Developer.
 * Facade
 * Flyweight
 * Proxy
+
+### Behavioral
+
+* Chain of Responsibility
+* Command
+* Iterator
+* Mediator
+* Memento
+* Observer
+* State
+* Strategy
+* Template Method
+* Visitor
+<!-- * Interpreter -->
