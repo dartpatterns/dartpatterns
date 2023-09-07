@@ -15,3 +15,11 @@ Dart patterns & techniques to use in development for Dart / Flutter Developer.
 * Strategy
 * Template Method
 * Visitor
+
+### Creational
+
+* Abstract Factory
+* Builder
+* Factory Method
+* Prototype
+* Singleton
