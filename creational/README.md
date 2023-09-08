@@ -1,3 +1,5 @@
 # Creational Patterns
 
-Creational patterns provide various of object creation mechanisms, which increase flexibility and reuse of existing code.
+Creational patterns are design patterns that provide the object creation mechanisms, which improve flexibility and reuse of existing code.
+
+Wikipedia: [Creational Patterns](https://en.wikipedia.org/wiki/Creational_pattern).
